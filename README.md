@@ -1,4 +1,5 @@
 # BorderLevel Plugin
+*There is also a [Datapack](https://github.com/FuntyGithub/BorderLevel_Plugin) version.*
 
 ## About
 This Minecraft plugin increases the size of the worldborder to the amount of your XP level.  

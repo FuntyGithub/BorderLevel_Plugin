@@ -24,7 +24,7 @@ public class BorderLevelCommand implements CommandExecutor, TabCompleter {
             sender.sendMessage(ChatColor.RED + "Name: " + Main.getPlugin().getDescription().getFullName());
             sender.sendMessage(ChatColor.RED + "Version: " + Main.getPlugin().getDescription().getVersion());
             sender.sendMessage(ChatColor.RED + "Author: " + Main.getPlugin().getDescription().getAuthors().toString());
-            sender.sendMessage(ChatColor.RED + "Github: https://github.com/FuntyGithub/BorderLevel/tree/plugin");
+            sender.sendMessage(ChatColor.RED + "Github: https://github.com/FuntyGithub/BorderLevel_Plugin");
             sender.sendMessage(ChatColor.RED + "=====[Border Level]=====");
         }else {
             String arg = args[0];
@@ -45,7 +45,7 @@ public class BorderLevelCommand implements CommandExecutor, TabCompleter {
                     sender.sendMessage(ChatColor.RED + "Name: " + Main.getPlugin().getDescription().getFullName());
                     sender.sendMessage(ChatColor.RED + "Version: " + Main.getPlugin().getDescription().getVersion());
                     sender.sendMessage(ChatColor.RED + "Author: " + Main.getPlugin().getDescription().getAuthors().toString());
-                    sender.sendMessage(ChatColor.RED + "Github: https://github.com/FuntyGithub/BorderLevel/tree/plugin");
+                    sender.sendMessage(ChatColor.RED + "Github: https://github.com/FuntyGithub/BorderLevel_Plugin");
                     sender.sendMessage(ChatColor.RED + "=====[Border Level]=====");
                     break;
             }
